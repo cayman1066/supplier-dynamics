@@ -1,5 +1,5 @@
 {
-  "name": "supplier-dynamics-guage",
+  "name": "supplier-dynamics",
   "version": "1.0.0",
   "description": "Solid Graph for displaying Supplier Dynamic",
   "main": "src/lib/index.tsx",
